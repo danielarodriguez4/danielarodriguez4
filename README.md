@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there! I'm Daniela 🙂
 
-<!--
-**danielarodriguez4/danielarodriguez4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering student** 🎓
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering student on track to graduate in 2026. I'm actively sharpening my web development skills, with a special interest in frontend development. My passion for design and creating visually appealing interfaces drives my enthusiasm for this area.
+
+- 🔭 I’m currently learning **React** and **Node.js**
+
+## 📝 Skills
+
+🗺️ **Languages**
+- 🇵🇹 Portuguese 
+- 🇻🇪 Spanish
+- 🇺🇸 English
+
+💻**Programming languages**
+- Python
+- Javascript
+
+👩‍💻**Technologies and Tools**
+- GitHub
+- Git
+- HTML
+- CSS
+- React
+- Node.js
