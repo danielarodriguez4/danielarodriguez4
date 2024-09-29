@@ -11,8 +11,8 @@ I'm a Software Engineering student on track to graduate in 2026. I'm actively sh
 ## 📝 Skills
 
 🗺️ **Languages**
-- 🇵🇹 Portuguese 
 - 🇻🇪 Spanish
+- 🇵🇹 Portuguese 
 - 🇺🇸 English
 
 💻**Programming languages**
