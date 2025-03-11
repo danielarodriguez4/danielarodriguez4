@@ -1,4 +1,4 @@
-## Hi there! I'm Daniela 🙂
+## Hey! I'm Daniela 🙂
 
 **Software Engineering student** 🎓
 
