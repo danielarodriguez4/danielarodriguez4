@@ -26,6 +26,7 @@ I'm a Software Engineering student on track to graduate in 2026. I'm actively sh
 - CSS
 - React
 - Node.js
+- Tailwind
 
 💬 **Experience**
 - Project Management
