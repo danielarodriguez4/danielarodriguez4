@@ -18,6 +18,7 @@ I'm a Software Engineering student on track to graduate in 2026. I'm actively sh
 💻**Programming languages**
 - Python
 - Javascript
+- C
 
 👩‍💻**Technologies and Tools**
 - GitHub
