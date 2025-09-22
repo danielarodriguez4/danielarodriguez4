@@ -1,6 +1,6 @@
 ## Hey! I'm Daniela 🙂
 
-**Software Engineering student** 🎓
+**Systems Engineering student** 🎓
 
 ## About me
 
