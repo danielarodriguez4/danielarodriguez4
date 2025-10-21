@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a Software Engineering student on track to graduate in 2026. I'm actively sharpening my web development skills, with a special interest in frontend development. My passion for design and creating visually appealing interfaces drives my enthusiasm for this area.
+I'm a Systems Engineering student on track to graduate in 2026. I'm actively sharpening my web development skills, with a special interest in frontend development. My passion for design and creating visually appealing interfaces drives my enthusiasm for this area.
 
 - 🔭 I’m currently learning **React** and **Node.js**
 
